@@ -15,3 +15,4 @@ C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Infrastru
 C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Infrastructure\obj\Debug\net10.0\refint\School.Infrastructure.dll
 C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Infrastructure\obj\Debug\net10.0\School.Infrastructure.pdb
 C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Infrastructure\obj\Debug\net10.0\ref\School.Infrastructure.dll
+C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Infrastructure\obj\Debug\net10.0\School.Infrastructure.sourcelink.json

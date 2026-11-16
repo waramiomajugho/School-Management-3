@@ -27,7 +27,7 @@ class Program
 
         var schoolService = serviceProvider.GetRequiredService<SchoolService>();
 
-        schoolService.RegisterNewStudent("Alice Smith", "alice@school.com");
+        //schoolService.RegisterNewStudent("Alice Smith", "alice@school.com");
 
         Console.WriteLine("Registered Students:");
         foreach (var student in schoolService.ListStudents())

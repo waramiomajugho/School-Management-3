@@ -13,3 +13,4 @@ C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Applicati
 C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Application\obj\Debug\net10.0\refint\School.Application.dll
 C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Application\obj\Debug\net10.0\School.Application.pdb
 C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Application\obj\Debug\net10.0\ref\School.Application.dll
+C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Application\obj\Debug\net10.0\School.Application.sourcelink.json

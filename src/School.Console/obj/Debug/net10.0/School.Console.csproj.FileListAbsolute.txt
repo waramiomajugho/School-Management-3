@@ -38,3 +38,4 @@ C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Console\b
 C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Console\bin\Debug\net10.0\System.Text.Encodings.Web.dll
 C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Console\bin\Debug\net10.0\System.Text.Json.dll
 C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Console\bin\Debug\net10.0\runtimes\browser\lib\net10.0\System.Text.Encodings.Web.dll
+C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Console\obj\Debug\net10.0\School.Console.sourcelink.json

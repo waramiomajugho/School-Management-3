@@ -9,3 +9,4 @@ C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Domain\ob
 C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Domain\obj\Debug\net10.0\refint\School.Domain.dll
 C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Domain\obj\Debug\net10.0\School.Domain.pdb
 C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Domain\obj\Debug\net10.0\ref\School.Domain.dll
+C:\Users\utc\Documents\FULL STACK PROJECTS\SchoolManagement\src\School.Domain\obj\Debug\net10.0\School.Domain.sourcelink.json
