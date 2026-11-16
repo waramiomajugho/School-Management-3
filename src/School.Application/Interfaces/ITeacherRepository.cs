@@ -1,6 +1,6 @@
 using School.Domain;
 
-namespace School.Application;
+namespace School.Application.Interfaces;
 
 public interface ITeacherRepository
 {

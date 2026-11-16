@@ -1,5 +1,5 @@
 using Microsoft.Extensions.Options;
-using School.Application;
+using School.Application.Interfaces;
 using School.Domain;
 using System.Text.Json;
 

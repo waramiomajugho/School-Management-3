@@ -6,11 +6,21 @@ namespace School.Application.Services;
 public class SchoolService
 {
   private readonly IStudentRepository _studentRepository;
+  private readonly ITeacherRepository _teacherRepository;
+  private readonly ICourseRepository _courseRepository;
 
-  public SchoolService(IStudentRepository studentRepository)
+  
+  public SchoolService(
+      IStudentRepository studentRepository, 
+      ITeacherRepository teacherRepository, 
+      ICourseRepository courseRepository)
   {
     _studentRepository = studentRepository;
+    _teacherRepository = teacherRepository;
+    _courseRepository = courseRepository;
   }
+
+  
 
   public void RegisterNewStudent(string name, string email)
   {
@@ -21,6 +31,7 @@ public class SchoolService
     };
     _studentRepository.AddStudent(student);
   }
+
   public IEnumerable<Student> GetAllStudents()
   {
     return _studentRepository.GetAllStudents();
@@ -50,4 +61,59 @@ public class SchoolService
   {
     _studentRepository.DeleteStudent(id);
   }
+
+  
+
+  public void HireTeacher(string name, string department, bool isDepartmentHead)
+  {
+    
+    if (isDepartmentHead)
+    {
+      var existingTeachers = _teacherRepository.GetAll();
+      var departmentHasHead = existingTeachers.Any(t => 
+          t.Department.Equals(department, StringComparison.OrdinalIgnoreCase) && t.IsDepartmentHead);
+
+      if (departmentHasHead)
+      {
+        throw new InvalidOperationException($"Department '{department}' already has an assigned department head!");
+      }
+    }
+
+    var teacher = new Teacher
+    {
+      Name = name,
+      Department = department,
+      IsDepartmentHead = isDepartmentHead
+    };
+
+    _teacherRepository.Add(teacher);
+  }
+
+  public IEnumerable<Teacher> GetAllTeachers()
+  {
+    return _teacherRepository.GetAll();
+  }
+
+  public void CreateCourse(string title, int maxCapacity)
+  {
+    
+    if (maxCapacity <= 0)
+    {
+      throw new ArgumentException("Course max capacity must be greater than zero.");
+    }
+
+    var course = new Course
+    {
+      Title = title,
+      MaxCapacity = maxCapacity
+    };
+
+    _courseRepository.AddCourse(course);
+  }
+
+  public IEnumerable<Course> GetAllCourses()
+  {
+    return _courseRepository.GetAll();
+  }
+
 }
