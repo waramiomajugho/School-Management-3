@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "jRSb/nYXYjk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\utc\\Documents\\FULL STACK PROJECTS\\SchoolManagement\\src\\School.Console\\School.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\utc\\.nuget\\packages\\microsoft.extensions.configuration\\11.0.0\\microsoft.extensions.configuration.11.0.0.nupkg.sha512",
+    "C:\\Users\\utc\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\11.0.0\\microsoft.extensions.configuration.abstractions.11.0.0.nupkg.sha512",
+    "C:\\Users\\utc\\.nuget\\packages\\microsoft.extensions.configuration.binder\\11.0.0\\microsoft.extensions.configuration.binder.11.0.0.nupkg.sha512",
+    "C:\\Users\\utc\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\11.0.0\\microsoft.extensions.configuration.fileextensions.11.0.0.nupkg.sha512",
+    "C:\\Users\\utc\\.nuget\\packages\\microsoft.extensions.configuration.json\\11.0.0\\microsoft.extensions.configuration.json.11.0.0.nupkg.sha512",
+    "C:\\Users\\utc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\11.0.0\\microsoft.extensions.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\utc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0\\microsoft.extensions.dependencyinjection.abstractions.11.0.0.nupkg.sha512",
+    "C:\\Users\\utc\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\11.0.0\\microsoft.extensions.fileproviders.abstractions.11.0.0.nupkg.sha512",
+    "C:\\Users\\utc\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\11.0.0\\microsoft.extensions.fileproviders.physical.11.0.0.nupkg.sha512",
+    "C:\\Users\\utc\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\11.0.0\\microsoft.extensions.filesystemglobbing.11.0.0.nupkg.sha512",
+    "C:\\Users\\utc\\.nuget\\packages\\microsoft.extensions.options\\11.0.0\\microsoft.extensions.options.11.0.0.nupkg.sha512",
+    "C:\\Users\\utc\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\11.0.0\\microsoft.extensions.options.configurationextensions.11.0.0.nupkg.sha512",
+    "C:\\Users\\utc\\.nuget\\packages\\microsoft.extensions.primitives\\11.0.0\\microsoft.extensions.primitives.11.0.0.nupkg.sha512",
+    "C:\\Users\\utc\\.nuget\\packages\\system.io.pipelines\\11.0.0\\system.io.pipelines.11.0.0.nupkg.sha512",
+    "C:\\Users\\utc\\.nuget\\packages\\system.text.encodings.web\\11.0.0\\system.text.encodings.web.11.0.0.nupkg.sha512",
+    "C:\\Users\\utc\\.nuget\\packages\\system.text.json\\11.0.0\\system.text.json.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

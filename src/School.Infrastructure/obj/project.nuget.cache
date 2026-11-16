@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tt3fuglbYG0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\utc\\Documents\\FULL STACK PROJECTS\\SchoolManagement\\src\\School.Infrastructure\\School.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\utc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0\\microsoft.extensions.dependencyinjection.abstractions.11.0.0.nupkg.sha512",
+    "C:\\Users\\utc\\.nuget\\packages\\microsoft.extensions.options\\11.0.0\\microsoft.extensions.options.11.0.0.nupkg.sha512",
+    "C:\\Users\\utc\\.nuget\\packages\\microsoft.extensions.primitives\\11.0.0\\microsoft.extensions.primitives.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
